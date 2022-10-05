@@ -1,0 +1,7 @@
+D:\univer\2-kyrs\OOP\Лабораторные\lb-1\lb-1\bin\Debug\lb-1.exe.config
+D:\univer\2-kyrs\OOP\Лабораторные\lb-1\lb-1\bin\Debug\lb-1.exe
+D:\univer\2-kyrs\OOP\Лабораторные\lb-1\lb-1\bin\Debug\lb-1.pdb
+D:\univer\2-kyrs\OOP\Лабораторные\lb-1\lb-1\obj\Debug\lb-1.csproj.AssemblyReference.cache
+D:\univer\2-kyrs\OOP\Лабораторные\lb-1\lb-1\obj\Debug\lb-1.csproj.CoreCompileInputs.cache
+D:\univer\2-kyrs\OOP\Лабораторные\lb-1\lb-1\obj\Debug\lb-1.exe
+D:\univer\2-kyrs\OOP\Лабораторные\lb-1\lb-1\obj\Debug\lb-1.pdb
